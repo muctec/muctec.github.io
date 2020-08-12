@@ -1,5 +1,0 @@
-{
-  "dist": {
-    "beforeStageCommand": "cat front.yml README.md > index.md"
-  }
-}
